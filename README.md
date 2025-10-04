@@ -86,9 +86,9 @@ See [LICENSE](./LICENSE) for full details.
 
 ## 🧠 About
 ParrotHat is part of the **ParrotHat Virtualization Initiative** —  
-an effort to create a modern, lightweight, open CPU emulator that runs real binary code and supports device-level emulation.
+an effort to create a modern, lightweight, open CPU emulator that architectures and supports device-level emulation.
 
 ---
 
-**Developed by Damián – ParrotHat Foundation**  
+**Developed by ParrotHat Foundation**  
 “**Emulate. Learn. Repeat.**”
